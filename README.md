@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.svg" alt="Bhaskar Maity - Cyber Security Engineer & Bug Bounty Hunter Profile Hero" width="100%">
+</p>
+
 # Hi there, I'm Bhaskar Maity 👋
 
 ---
