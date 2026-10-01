@@ -55,13 +55,13 @@
 </p>
 
 ---
-
+<!--
 ### 📈 Activity & Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VirUsFly&theme=github-dark" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirUsFly&layout=compact&theme=dark&hide_border=false" width="60%" />
 </p>
-
+ -->
 ---
 
 ### 🚀 Featured Projects:
@@ -75,6 +75,12 @@
 ---
 
 ### 🐍 Snake Eating My Contributions:
+
+<!-- Snake Game Repo View -->
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirUsFly/VirUsFly/output/github-contribution-grid-snake-dark.svg">
