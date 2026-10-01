@@ -1,5 +1,4 @@
-<!-- blue-sunglasses.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="100%" height="100%" role="img" aria-label="Bhaskar Maity - Cyber Security Engineer & Bug Bounty Hunter Profile Hero">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="100%" height="100%" role="img" aria-label="Bhaskar Maity - Cyber Security Engineer &amp; Bug Bounty Hunter Profile Hero">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;800&amp;display=swap');
@@ -83,7 +82,7 @@
     <circle cx="40" cy="34" r="4" fill="#60A5FA" class="pulse-dot" />
     <text x="54" y="38" class="text-mono" font-size="11" font-weight="600" fill="#93C5FD">SEC_CLEARANCE: ROOT</text>
 
-    <!-- ASCII Matrix Avatar Area (Man wearing sunglasses) -->
+    <!-- ASCII Matrix Avatar Area -->
     <g transform="translate(24, 65)">
       <rect width="372" height="320" fill="#070D19" rx="8" stroke="#1E3A8A" stroke-width="1" />
       <text x="186" y="25" text-anchor="middle" class="text-muted" font-size="11">THREAT.INTEL // BUG_BOUNTY</text>
@@ -118,7 +117,7 @@
     <rect width="668" height="510" class="glass-panel" />
 
     <g transform="translate(36, 36)">
-      <!-- Name & Title Header -->
+      <!-- Name &amp; Title Header -->
       <text x="0" y="32" class="text-title" font-size="38" fill="url(#title-grad)">Bhaskar Maity</text>
       <text x="0" y="60" class="text-mono" font-size="16" fill="#60A5FA">Cyber Security Engineer &amp; Bug Bounty Hunter</text>
       
